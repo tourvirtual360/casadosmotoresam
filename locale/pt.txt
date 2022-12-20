@@ -1,0 +1,33 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Atendemos Capital e Interior do Amazonas
+
+### Title
+tour.name = Casa dos Motores - Manaus
+
+## Media
+
+### Title
+panorama_269294E2_2CAC_20FC_41BA_CB2EFEBE6CE7.label = FOTO_3217
+panorama_2692B641_2CAC_233C_41B8_1660A13F65CB.label = FOTO_3215
+panorama_2692E574_2CAC_61DB_41C6_3163A7A252B9.label = FOTO_3216
+panorama_26931648_2CAC_23CB_41C3_473E4D08E9A3.label = FOTO_3213
+panorama_2693165A_2CAD_E3CF_41C0_1C982F1D0FD7.label = FOTO_3214
+panorama_269365D4_2CAC_60DB_41A5_87D3251C3CC1.label = FOTO_3212
+panorama_26EAE476_2CAC_27C4_41C5_6AB13A07DD3F.label = FOTO_3211
+panorama_27EE5071_2CAC_1FDD_41C5_D56826B35DF3.label = FOTO_3208
+
+## Action
+
+### URL
+LinkBehaviour_201482C8_38DC_96A0_41C6_04BAA827A341.source = https://wa.link/k6iqbr
+LinkBehaviour_20FF7D66_38CC_F260_41C0_7D8B5B8449EB.source = https://www.instagram.com/casadosmotoresam/
+LinkBehaviour_214BF2E2_38DD_B660_41B8_08AE2E7FEA67.source = https://goo.gl/maps/fvyXmZo9dS1aqsW68
+LinkBehaviour_2558A94E_3D3D_685C_419C_DD46F46C4123.source = https://www.instagram.com/casadosmotoresam/
+LinkBehaviour_25590951_3D3D_6844_41B0_A560D7D0A1F4.source = https://web.facebook.com/casadosmotoresam
+LinkBehaviour_2559194F_3D3D_685C_41C7_F91F3CE3C2B4.source = https://wa.link/k6iqbr
+LinkBehaviour_2559D950_3D3D_6844_41CA_811FB8CAAB7D.source = https://goo.gl/maps/fvyXmZo9dS1aqsW68
+LinkBehaviour_2FAEA3A4_38DC_96E0_41B3_A7F4AB43D518.source = https://web.facebook.com/casadosmotoresam
